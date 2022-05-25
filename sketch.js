@@ -43,6 +43,8 @@ function setup()
   fakePlatforms = new Group()
 
   startGame()
+  
+  music.play()
 }
 
 function draw() 
